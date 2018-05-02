@@ -1,0 +1,57 @@
+.hero-text {
+  &.-home {
+    margin-left: 150px;
+    margin-top: 160px;
+    > .subtitle {
+      margin-bottom: 25px;
+    }
+    > .title {
+      margin-bottom: 84px;
+    }
+  }
+}
+
+#hero-section {
+  width: 100%;
+  height: 100vh;
+}
+
+#mission-section {
+  background-color: $uxsoc-blue;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .text {
+    @include proximanova;
+    padding: 15px;
+    margin: auto;
+    color: $white;
+    max-width: 75%;
+    min-width: 40%;
+    text-align: center;
+    line-height: 41px;
+    font-size: ms(1);
+    @media (min-width: 680px) {
+      line-height: 51px;
+    }
+    @media (min-width: 772px) {
+      font-size: ms(2);
+      max-width: 45%;
+    }
+    @media (min-width: 1143px) {
+      font-size: ms(3);
+      line-height: 61px;
+    }
+    @media (min-width: 1368px) {
+      font-size: ms(4);
+    }
+  }
+}
+
+#home-cards {
+  padding-top: 128px;
+  padding-bottom: 128px;
+  background-color: $uxsoc-offwhite;
+}
