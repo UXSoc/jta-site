@@ -1,0 +1,28 @@
+// SASS Plugins/Libraries
+@import "~animate.css";
+@import "~bootstrap/scss/bootstrap.scss";
+@import "~bootstrap/scss/bootstrap-grid.scss";
+@import '~modularscale-sass/stylesheets/modularscale';
+
+// Project Variables
+@import "variable";
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Rubik:500');
+
+// Page-specific scss
+@import "home";
+@import "work";
+@import "footer";
+// TODO fix to match other files
+@import "_error.scss";
+
+// Community
+@import "community/members.scss";
+
+// Components
+@import "components/hero-text";
+@import "components/btn-uxsoc";
+@import "components/card-uxsoc";
+@import "components/navbar";
+@import "components/contact-card-uxsoc";

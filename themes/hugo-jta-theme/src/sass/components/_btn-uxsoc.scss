@@ -1,0 +1,10 @@
+.btn {
+  &.-uxsoc {
+    @include proximanova-semibold;
+    color: $white;
+    background-color: $uxsoc-blue;
+    border-color: $uxsoc-blue;
+    border-radius: 8px;
+    padding: 1rem 2rem;
+  }
+}

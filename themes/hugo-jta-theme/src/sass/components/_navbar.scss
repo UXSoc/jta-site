@@ -1,0 +1,26 @@
+.proximareg {
+  font-family: 'Proxima Nova', Georgia, sans-serif;
+  font-size: ms(0);
+}
+
+.navbar-positioning {
+  margin-top: 3.39rem;
+  margin-left: 6.37rem;
+  margin-right: 6.37rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #3B3E42;
+  font-size: ms(2);
+}
+
+@media (min-width: 992px) {
+  .navbar-nav > li {
+    padding: .5rem 2.6rem;
+  }
+  .navbar-positioning {
+    margin-top: 3.39rem;
+    margin-left: 6.37rem;
+    margin-right: 6.37rem;
+  }
+}
