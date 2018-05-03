@@ -1,7 +1,6 @@
 // SASS Plugins/Libraries
 @import "~animate.css";
-@import "~bootstrap/scss/bootstrap.scss";
-@import "~bootstrap/scss/bootstrap-grid.scss";
+@import "~bootstrap/scss/bootstrap";
 @import '~modularscale-sass/stylesheets/modularscale';
 
 // Project Variables
@@ -12,13 +11,9 @@
 
 // Page-specific scss
 @import "home";
-@import "work";
 @import "footer";
-// TODO fix to match other files
-@import "_error.scss";
-
-// Community
-@import "community/members.scss";
+@import "landing";
+@import "getting_started";
 
 // Components
 @import "components/hero-text";
