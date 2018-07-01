@@ -1,0 +1,63 @@
+<div class="container-fluid" style="padding:0;">
+  <img style="background-color:#333; height:500px; width:100%;">
+</div>
+
+<div class="container">
+  <h2 class="mt-5">{{ .Site.Params.Landing.Header1 }}</h2>
+  <p class="mt-4 mb-4">
+    {{ .Site.Params.Landing.Description }}
+  </p>
+
+  <h2>{{ .Site.Params.Landing.Header2 }}</h2>
+  {{ partial "timeline.html" . }}
+
+  <h2>{{ .Site.Params.Landing.Header3 }}</h2>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="{{ .Site.Params.Landing.card_image1 }}" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">{{ .Site.Params.Landing.Card1 }}</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="{{ .Site.Params.Landing.card_image2 }}" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">{{ .Site.Params.Landing.Card2 }}</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="{{ .Site.Params.Landing.card_image3 }}" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">{{ .Site.Params.Landing.Card2 }}</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <h2>Downloadables</h2>
+  <div class="row">
+    <div class="col-sm-6">
+      <button type="button" class="btn btn-primary">Step by Step Procedure</button>
+    </div>
+    <div class="col-sm-6">
+      <button type="button" class="btn btn-primary">Forms & Applications</button>
+    </div>
+    <div class="col-sm-6">
+      <button type="button" class="btn btn-primary">Application Checklist</button>
+    </div>
+    <div class="col-sm-6">
+      <button type="button" class="btn btn-primary">Pre-Departure Requirements</button>
+    </div>
+  </div>
+</div>
