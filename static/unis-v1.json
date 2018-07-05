@@ -1,0 +1,1287 @@
+[
+  {
+    "region": "Asia",
+    "country": "China",
+    "name": "Beijing Language and Culture University"
+  },
+  {
+    "region": "Asia",
+    "country": "China",
+    "name": "East China Normal University"
+  },
+  {
+    "region": "Asia",
+    "country": "China",
+    "name": "Guizhou University"
+  },
+  {
+    "region": "Asia",
+    "country": "China",
+    "name": "Huazhong Normal University"
+  },
+  {
+    "region": "Asia",
+    "country": "China",
+    "name": "Lingnan (University) College"
+  },
+  {
+    "region": "Asia",
+    "country": "China",
+    "name": "Peking Uniersity (Beijing University)"
+  },
+  {
+    "region": "Asia",
+    "country": "China",
+    "name": "Sun Yat-sen University"
+  },
+  {
+    "region": "Asia",
+    "country": "China",
+    "name": "Xiamen University"
+  },
+  {
+    "region": "Asia",
+    "country": "China",
+    "name": "Yunnan University of Finance and Economics"
+  },
+  {
+    "region": "Asia",
+    "country": "China (Hong Kong)",
+    "name": "Hong Kong Baptist University"
+  },
+  {
+    "region": "Asia",
+    "country": "China (Hong Kong)",
+    "name": "Hong Kong Polytechnic University"
+  },
+  {
+    "region": "Asia",
+    "country": "China (Hong Kong)",
+    "name": "Hong Kong University of Science and Technology"
+  },
+  {
+    "region": "Asia",
+    "country": "China (Macau)",
+    "name": "University of Macau"
+  },
+  {
+    "region": "Asia",
+    "country": "India",
+    "name": "Indian Institute of Foreign Trade"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "Binus University"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "Institut Bisnis Nusantara"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "Institut Teknologi Bandung"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "Maranatha Christian University"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "Sanata Dharma Uniersity"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "Satya Wacana Christian University"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "Soegijapranata Catholic Uniersity"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "State Uniersity of Malang"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "Universitas Airlangga"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "Universitas Atma Jaya Yogyakarta"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "Universitas Gadjah Mada"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "Universitas Indonesia"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "Universitas Islam Bandung"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "Universitas Katolik Indonesia Atma Jaya"
+  },
+  {
+    "region": "Asia",
+    "country": "Indonesia",
+    "name": "Universitas Kristen Indonesia"
+  },
+  {
+    "region": "Asia",
+    "country": "Israel",
+    "name": "Ben-Gurion University of the Negev"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Akita International University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Aomori Chuo Gakuin University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Aoyama Gakuin University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Chiba University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Chuo University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Doshisha University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Fukoka Women's University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Fukushima University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Hitotsubashi University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "International Christian University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "International College of Liberal Arts (under Yamanashi Gakuin University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Josai University Educational Corporation University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Josai International University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Kansai Gaidai University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Kobe University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Kobe College"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Kumamoto University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Kwansei Gakuin University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Kyoto University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Kyushu Institute of Technology"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Kyushu University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Meiji University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Nagasaki University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Nagoya Gakuin University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Nanzan University in Nagoya"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Nara Institute of Science and Technology"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Niigata University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "JF Oberlin University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Okayama University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Okinawa Christian Junior University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Osaka University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Rikkyo University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Ritsumeikan Asia Pacific University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Seinan Gakuin University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Seisen University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Soka University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Sophia University"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Tokyo University of Foreign Studies"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "name": "Waseda University"
+  },
+  {
+    "region": "Asia",
+    "country": "Malaysia",
+    "name": "Universiti Utara Malaysia"
+  },
+  {
+    "region": "Asia",
+    "country": "Malaysia",
+    "name": "Universiti Kebangsaan Malaysia"
+  },
+  {
+    "region": "Asia",
+    "country": "Singapore",
+    "name": "Nanyang Technological University"
+  },
+  {
+    "region": "Asia",
+    "country": "Singapore",
+    "name": "National University of Singapore"
+  },
+  {
+    "region": "Asia",
+    "country": "Singapore",
+    "name": "Singapore Management University"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Busan University of Foreign Studies"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Catholic University of Korea"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Catholic University of Daegu"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Chung-Ang University"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Daejeon University"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Dong-A University"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Dong-Eui University"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Ewha Womans University"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Hallym University"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Keimyung University"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Korea University"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Pai Chai University"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Pukyong National University"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Seoul National University"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Sogang University"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Woosong University"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Incheon National University (formerly University of Incheon)"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "name": "Yonsei University"
+  },
+  {
+    "region": "Asia",
+    "country": "Taiwan",
+    "name": "Chung Chou Institute of Technology"
+  },
+  {
+    "region": "Asia",
+    "country": "Taiwan",
+    "name": "Chung Yuan Christian University"
+  },
+  {
+    "region": "Asia",
+    "country": "Taiwan",
+    "name": "Fu Jen Catholic University"
+  },
+  {
+    "region": "Asia",
+    "country": "Taiwan",
+    "name": "National Sun Yat-sen University"
+  },
+  {
+    "region": "Asia",
+    "country": "Taiwan",
+    "name": "National Taiwan Normal University"
+  },
+  {
+    "region": "Asia",
+    "country": "Taiwan",
+    "name": "Providence University"
+  },
+  {
+    "region": "Asia",
+    "country": "Taiwan",
+    "name": "Soochow University"
+  },
+  {
+    "region": "Asia",
+    "country": "Taiwan",
+    "name": "Southern Taiwan University of Science and Technology (Southern Taiwan University)"
+  },
+  {
+    "region": "Asia",
+    "country": "Taiwan",
+    "name": "Wenzao Ursuline University of Languages"
+  },
+  {
+    "region": "Asia",
+    "country": "Thailand",
+    "name": "Chulalongkorn University"
+  },
+  {
+    "region": "Asia",
+    "country": "Thailand",
+    "name": "King Prajadhipok Institute"
+  },
+  {
+    "region": "Asia",
+    "country": "Thailand",
+    "name": "Mahidol University"
+  },
+  {
+    "region": "Asia",
+    "country": "Thailand",
+    "name": "Rajamangala University of Technology Thanyaburi"
+  },
+  {
+    "region": "Asia",
+    "country": "Thailand",
+    "name": "Thammasat University"
+  },
+  {
+    "region": "Oceania",
+    "country": "Australia",
+    "name": "Australian Catholic University"
+  },
+  {
+    "region": "Oceania",
+    "country": "Australia",
+    "name": "Curtin University"
+  },
+  {
+    "region": "Oceania",
+    "country": "Australia",
+    "name": "La Trobe University"
+  },
+  {
+    "region": "Oceania",
+    "country": "Australia",
+    "name": "Macquarie University"
+  },
+  {
+    "region": "Oceania",
+    "country": "Australia",
+    "name": "Royal Melbourne Institute of Technology"
+  },
+  {
+    "region": "Oceania",
+    "country": "Australia",
+    "name": "University of Newcastle"
+  },
+  {
+    "region": "Oceania",
+    "country": "Australia",
+    "name": "University of Queensland"
+  },
+  {
+    "region": "Oceania",
+    "country": "Australia",
+    "name": "University of Sydney"
+  },
+  {
+    "region": "Oceania",
+    "country": "Australia",
+    "name": "University of Technology Sydney"
+  },
+  {
+    "region": "Oceania",
+    "country": "Australia",
+    "name": "University of the Sunshine Coast"
+  },
+  {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "name": "Auckland University of Technology"
+  },
+  {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "name": "University of Otago"
+  },
+  {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "name": "Unitec Institute of Technology"
+  },
+  {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "name": "Coventry University"
+  },
+  {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "name": "King's College London"
+  },
+  {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "name": "Liverpool Hope University"
+  },
+  {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "name": "Queen Mary University of London"
+  },
+  {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "name": "St. Mary's University, Twickenham"
+  },
+  {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "name": "University College London"
+  },
+  {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "name": "University of Hudderfield"
+  },
+  {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "name": "University of Nottingham"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "Complutense University of Madrid"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "Pompeu Fabra University"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "Saint Louis University"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "Universidad Carlos III de Madrid"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "Universidad Catolica San Antonio de Murcia"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "Universidad de Cordoba"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "Universidad de Malaga"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "Universidad Loyola Andalucia"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "Universidad Politecnica De Valencia"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "Universidad Pontificia Comillas"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "Universidad Ramon Llull"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "University of Alcala"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "University of Castilla-La Mancha"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "University of Deusto"
+  },
+  {
+    "region": "Europe",
+    "country": "Spain",
+    "name": "University of the Basque Country"
+  },
+  {
+    "region": "South America",
+    "country": "Argentina",
+    "name": "Unibersidad Del Salvador"
+  },
+  {
+    "region": "South America",
+    "country": "Brazil",
+    "name":"Universidade do Vale do Rio dos Sinos"
+  },
+  {
+    "region": "South America",
+    "country": "Colombia",
+    "name": "Pontificia Universidad Javeriana"
+  },
+  {
+    "region": "South America",
+    "country": "Uruguay",
+    "name": "Universidad Catolica de Uruguay"
+  },
+  {
+    "region": "North America",
+    "country": "Canada",
+    "name": "Saint Paul University"
+  },
+  {
+    "region": "North America",
+    "country": "Canada",
+    "name": "Universite de Montreal"
+  },
+  {
+    "region": "North America",
+    "country": "Canada",
+    "name": "University of King's College"
+  },
+  {
+    "region": "North America",
+    "country": "Canada",
+    "name": "University of Victoria"
+  },
+  {
+    "region": "North America",
+    "country": "Costa Rica",
+    "name": "University for Peace"
+  },
+  {
+    "region": "North America",
+    "country": "Mexico",
+    "name": "Universidad Iberoamericana"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Boston College"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Canisius College"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Fordham University"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Franklin College"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Georgian Court University"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Juniata College"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Loyola Marymount University"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Loyola University Chicago - Global Centers"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Martquette University"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Marian University"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Middle Tennessee State University"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Regis University"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Rowan University"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Santa Clara University"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "St. Peter's University"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Trinity College"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "University of California, Irvine"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "University of California"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "University of Delaware"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "University of Hawai'i at Manoa"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "University of Pittsburgh"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "University of San Francisco"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "University of the Incarnate Word"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "University of the Pacific"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "University of Wisconsin-Madison"
+  },
+  {
+    "region": "North America",
+    "country": "USA",
+    "name": "Washington State University"
+  },
+  {
+    "region": "Europe",
+    "country": "Austria",
+    "name": "Management Center Innbruck"
+  },
+  {
+    "region": "Europe",
+    "country": "Austria",
+    "name": "Salzburg University of Applied Science"
+  },
+  {
+    "region": "Europe",
+    "country": "Austria",
+    "name": "Upper Austria University of Applied Sciences"
+  },
+  {
+    "region": "Europe",
+    "country": "Belgium",
+    "name": "ICHEC Brussels Management School"
+  },
+  {
+    "region": "Europe",
+    "country": "Belgium",
+    "name": "Universite Libre De Bruxelles"
+  },
+  {
+    "region": "Europe",
+    "country": "Belgium",
+    "name": "University of Antwerp"
+  },
+  {
+    "region": "Europe",
+    "country": "Cyprus",
+    "name": "Eastern Mediterraean University"
+  },
+  {
+    "region": "Europe",
+    "country": "Cyprus",
+    "name": "University of Nicosia"
+  },
+  {
+    "region": "Europe",
+    "country": "Czech Republic",
+    "name": "Charles University in Prague"
+  },
+  {
+    "region": "Europe",
+    "country": "Czech Republic",
+    "name": "Metropolitan University Prague"
+  },
+  {
+    "region": "Europe",
+    "country": "Czech Republic",
+    "name": "Palacky Universty Olomouc"
+  },
+  {
+    "region": "Europe",
+    "country": "Czech Republic",
+    "name": "Tomas Bata University"
+  },
+  {
+    "region": "Europe",
+    "country": "Czech Republic",
+    "name": "University of New York in Prague"
+  },
+  {
+    "region": "Europe",
+    "country": "Denmark",
+    "name": "University of Southern Denmark"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Audencia Nantes School of Management"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "University of Bourbeaux (former Bordeaux University)"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Catholic University of Lyon"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "ECE Paris"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Ecole de Manaagment de Normandie"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Ecole Superieure des Sciences Commerciales d' Angers (ESSCA)"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "ESC Rennes School of Business"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Esce International Business School"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "EDHEC Business School / ESPEME Business School"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Groupe Ecole Superieure de Commerce Pau"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Group ESC Dijon Bourgogne Burgundy School of Business"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Institut Catholique Des Arts Et Metiers"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Institut Catholique d'Etudes Superieures"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Institut Catholique De Paris"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Superieur De Gestion"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Telecom Ecole de Management (formerly Institut National Des Telecommunications)"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Kedge Business School"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Lille Catholic university"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "MIP Ecole de Management"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Mod'Art International of Paris"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Novancia Business School, Paris"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Sciences Po Lille"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Sciences Po Paris"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Sciences Po Rennes"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Sorbonne Nouvelle - Paros 3 University"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Isntitute of Political Studies Bourdeaux (Sciences Po Bordeaux)"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Toulouse Catholic University"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Toulouse Business School"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Universite Catholique de I'Ouest"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Universite de Limoges"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Universite de Technologie de Belfort-Montbeliard"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Universite de Montpellier"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "Universite Nice Sophia Antipolis"
+  },
+  {
+    "region": "Europe",
+    "country": "France",
+    "name": "University of Provence"
+  },
+  {
+    "region": "Europe",
+    "country": "Germany",
+    "name": "Brandenburg University of Technology"
+  },
+  {
+    "region": "Europe",
+    "country": "Germany",
+    "name": "Cottbus-Senftenberg"
+  },
+  {
+    "region": "Europe",
+    "country": "Germany",
+    "name": "Geor-August-Universitat Gottingen"
+  },
+  {
+    "region": "Europe",
+    "country": "Germany",
+    "name": "Hochschule Mittweida Universty of Applied Sciences"
+  },
+  {
+    "region": "Europe",
+    "country": "Germany",
+    "name": "Hochschule RhienMain University of Applied Sciences Wiesbaden Russelheim"
+  },
+  {
+    "region": "Europe",
+    "country": "Germany",
+    "name": "Katholische Universitat Eichstatt-Ingolstadt"
+  },
+  {
+    "region": "Europe",
+    "country": "Germany",
+    "name": "Munich Business School"
+  },
+  {
+    "region": "Europe",
+    "country": "Germany",
+    "name": "Philipps-Universitat Marburg"
+  },
+  {
+    "region": "Europe",
+    "country": "Germany",
+    "name": "SRH Hochschule Berline- The International Management University"
+  },
+  {
+    "region": "Europe",
+    "country": "Germany",
+    "name": "Technische Universitat Munchen"
+  },
+  {
+    "region": "Europe",
+    "country": "Germany",
+    "name": "Ilmenau"
+  },
+  {
+    "region": "Europe",
+    "country": "Germany",
+    "name": "Universitaet Breman"
+  },
+  {
+    "region": "Europe",
+    "country": "Germany",
+    "name": "University of Passau"
+  },
+  {
+    "region": "Europe",
+    "country": "Germany",
+    "name": "University of Regensburg"
+  },
+  {
+    "region": "Europe",
+    "country": "Ireland",
+    "name": "Institute of Technology Tallaght"
+  },
+  {
+    "region": "Europe",
+    "country": "Italy",
+    "name": "Scuola Superiore Sant'Anna, Pisa, Italy"
+  },
+  {
+    "region": "Europe",
+    "country": "Italy",
+    "name": "Universita Ca' Foscari Venezia"
+  },
+  {
+    "region": "Europe",
+    "country": "Italy",
+    "name": "Universita della Calabria"
+  },
+  {
+    "region": "Europe",
+    "country": "Latvia",
+    "name": "University of Latvia"
+  },
+  {
+    "region": "Europe",
+    "country": "Netherlands",
+    "name": "Hanze University of Applied Science"
+  },
+  {
+    "region": "Europe",
+    "country": "Netherlands",
+    "name": "Groningen, the Netherlands"
+  },
+  {
+    "region": "Europe",
+    "country": "Netherlands",
+    "name": "HAN University of Applied Sciences - Arnhem Business School"
+  },
+  {
+    "region": "Europe",
+    "country": "Netherlands",
+    "name": "Leiden University - Leiden University College The Hague"
+  },
+  {
+    "region": "Europe",
+    "country": "Netherlands",
+    "name": "Radboud Universiteit"
+  },
+  {
+    "region": "Europe",
+    "country": "Netherlands",
+    "name": "Saxion University of Applied Sciences"
+  },
+  {
+    "region": "Europe",
+    "country": "Netherlands",
+    "name": "Tilburg University - Tilburg School of Social and Behavioral Sciences"
+  },
+  {
+    "region": "Europe",
+    "country": "Norway",
+    "name": "The Norwegian University of Life Sciences"
+  },
+  {
+    "region": "Europe",
+    "country": "Poland",
+    "name": "Jagiellonian University"
+  },
+  {
+    "region": "Europe",
+    "country": "Poland",
+    "name": "Kozminski University"
+  },
+  {
+    "region": "Europe",
+    "country": "Poland",
+    "name": "Univeristy of Warsaw"
+  },
+  {
+    "region": "Europe",
+    "country": "Romania",
+    "name": "Univeritatea 'Lucian Blaga' din Sibiu Transilvania University"
+  }
+]
