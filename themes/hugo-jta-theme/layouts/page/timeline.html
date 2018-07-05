@@ -5,9 +5,8 @@
         <link href="/style.css" rel="stylesheet">
     </head>
     <body>
-        {{ partial "header.html" . }}
-        {{ partial "landing.html" . }}
-        {{ partial "footer.html" . }}
+        {{ partial "timeline.html" . }}
     </body>
-    {{ partial "scripts.html" . }}
+    <script src="{{ .Site.BaseURL }}js/main.js"></script>
+    <script src="{{ .Site.BaseURL }}js/style.js"></script>
 </html>
