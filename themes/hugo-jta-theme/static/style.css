@@ -13007,29 +13007,6 @@ a.text-dark:focus {
   font-size: 1em;
 }
 
-.navbar-positioning {
-  margin-top: 3.39rem;
-  margin-left: 6.37rem;
-  margin-right: 6.37rem;
-}
-
-.navbar-light .navbar-nav .nav-link {
-  color: #3B3E42;
-  font-size: 1.47016em;
-}
-
-@media (min-width: 992px) {
-  .navbar-nav > li {
-    padding: .5rem 2.6rem;
-  }
-
-  .navbar-positioning {
-    margin-top: 3.39rem;
-    margin-left: 6.37rem;
-    margin-right: 6.37rem;
-  }
-}
-
 .ccard.-home > .ccard-body > .card-title {
   font-family: 'Rubik', sans-serif;
   font-style: normal;
@@ -13319,4 +13296,8 @@ a.text-dark:focus {
   .timeline body {
     min-height: 950px;
   }
+}
+
+.page-navigation {
+  display: inline-block;
 }
