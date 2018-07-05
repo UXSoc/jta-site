@@ -1,4 +1,50 @@
-baseURL = "http://example.org/"
+baseURL = "localhost:1313"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "JTA Site"
 theme = "hugo-jta-theme"
+googleAnalytics = "UA-XXXXXXXX-Y"
+
+[params]
+    theme_color = "#574CDD"
+    description = "Junior Term Abroad Website"
+    description_photo = "jta.jpg"
+    favicon = "favicon.png"
+    facebook = ""
+    twitter = ""
+    instagram = ""
+
+[params.nav]
+    enable = true
+
+[params.landing]
+    enable = true
+    image = "something.jpg"
+    header1 = "About the Junior Term Abroad Program"
+    description = """The Junior Term Abroad Program is an opportunity that allows juniors of the
+                     Ateneo to study abroad for one semester. Previous participants have described
+                     their study-abroad experiences as both academically enriching and personally
+                     rewarding, an important period of growth and discovery in their college lives.
+                     Participants are expected to be Ateneo's unofficial student-ambassadors,
+                     helping build our relationships with our partner institutions abroad."""
+    header2 = "The Process"
+    timeline_items = []
+    header3 = "The Journey"
+    card1 = "JTA Destinations & Universities"
+    card_image1 = "http://alexiscollado.com/cope.jpg"
+    card2 = "Scholarships"
+    card_image2 = "http://alexiscollado.com/cope.jpg"
+    card3 = "Photo Gallery"
+    card_image3 = "http://alexiscollado.com/cope.jpg"
+
+[params.process]
+    enable = true
+    title = "My Process"
+    subtitle = "Full Process Design"
+
+[params.case_studies]
+    enable = true
+    title = "Case Studies"
+    subtitle = "Selected Works"
+
+[params.footer]
+    enable = true
