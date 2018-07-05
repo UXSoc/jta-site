@@ -1,0 +1,13 @@
+<div class="container">
+    <div class="row">
+        <h2>Getting Started</h2>
+    </div>
+    <div class="row">
+        <div class="page-navigation">
+            {{ range $nav := .Params.nav }}
+            <i class="fas fa-angle-right"></i>
+            <a href="{{ $nav.link }}">{{ $nav.title }}</a>
+            {{ end }}
+        </div>
+    </div>
+</div>

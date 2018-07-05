@@ -7,6 +7,5 @@
     <body>
         {{ partial "timeline.html" . }}
     </body>
-    <script src="{{ .Site.BaseURL }}js/main.js"></script>
-    <script src="{{ .Site.BaseURL }}js/style.js"></script>
+    {{ partial "scripts.html" . }}
 </html>
