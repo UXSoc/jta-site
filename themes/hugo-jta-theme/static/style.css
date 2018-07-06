@@ -13301,3 +13301,8 @@ a.text-dark:focus {
 .page-navigation {
   display: inline-block;
 }
+
+.card-header.-blue {
+  background-color: blue;
+  color: white;
+}
