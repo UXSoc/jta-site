@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    <head>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+        <link href="/style.css" rel="stylesheet">
+    </head>
+    <body>
+        {{ partial "header.html" . }}
+        {{ partial "nav.html" . }}
+        {{ partial "page_navigation.html" . }}
+        <div class="container-fluid" style="padding:0;">
+            <h1>{{ .Params.Title }}</h1>
+            <div style="background-color:#333; height:500px; width:100%;"/>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2>About</h2>
+                    <p style="margin-top: 2rem; margin-bottom: 2rem;">
+                        {{ .Content }}
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <p>
+                        Location: {{ .Params.location }}<br/>
+                        Language: {{ .Params.language }}<br/>
+                        Term Offered: {{ .Params.term_ffered }}<br/>
+                        Term Dates: {{ .Params.term_dates }}<br/>
+                        Areas of Study: {{ .Params.areas_of_study }}<br/>
+                        Expected Expenses: {{ .Params.expected_expenses }}<br/>
+                        Scholarships: {{ .Params.scholarships }}
+                    </p>
+                </div>
+            </div>
+
+
+            <h2>Related Links</h2>
+            {{ range $link := .Params.links }}
+                <a href="{{ $link.url }}">{{ $link.title }}</a>
+            {{ end }}
+
+        </div>
+    </body>
+    {{ partial "scripts.html" . }}
+</html>
