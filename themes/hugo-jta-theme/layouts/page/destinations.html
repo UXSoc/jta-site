@@ -5,6 +5,9 @@
         <link href="/style.css" rel="stylesheet">
     </head>
     <body>
+        {{ partial "header.html" . }}
+        {{ partial "nav.html" . }}
+        {{ partial "page_navigation.html" . }}
         {{ partial "destinations.html" . }}
     </body>
     {{ partial "scripts.html" . }}
