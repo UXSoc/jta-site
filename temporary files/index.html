@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <script language="text/javascript">
+        </script>
+    </head>
+    <script>
+        //arg1 obj = parsed json file
+        //arg2 key = 'label'
+        //arg3 val = value of the key
+        function getObjects(obj, key, val) {
+                var objects = [];
+                for (var i in obj) {
+                    if (!obj.hasOwnProperty(i)) continue;
+                    if (typeof obj[i] == 'object') {
+                        objects = objects.concat(getObjects(obj[i], key, val));    
+                    } else 
+                    //if key matches and value matches or if key matches and value is not passed (eliminating the case where key matches but passed value does not)
+                    if (i == key && obj[i] == val || i == key && val == '') { //
+                        objects.push(obj);
+                    } else if (obj[i] == val && key == ''){
+                        //only add if the object is not already in the array
+                        if (objects.lastIndexOf(obj) == -1){
+                            objects.push(obj);
+                        }
+                    }
+                }
+            return objects;
+        }
+        
+        var json = '[{"region": "Asia","country": "China","name": "Beijing Language and Culture University"},{"region": "Asia","country": "China","name": "Papa Language and Culture University"},{"region": "Europe","country": "China","name": "Beijing Language and Culture University"}]';
+        var js = JSON.parse(json);
+        console.log(getObjects(js,'','Asia'));
+    </script>
+    <body>
+        
+    </body>
+</html>
